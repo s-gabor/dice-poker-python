@@ -14,6 +14,14 @@ any platform where Tkinter is available.
 ## INSTALLATION: 
 Put the graphics.py file somewhere where Python can see it.
 
+
+## INSTALLATION: 
+
+![About](images/dice-poker.mp4)
+
+
+## INSTALLATION: 
+
 ![About](images/dice-poker1.png)
 ![About](images/dice-poker2.png)
 ![About](images/dice-poker3.png)
